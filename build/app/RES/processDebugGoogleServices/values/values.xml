@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">267506235313-e3lepg63h99ism6aebsfgjr5nq96irt7.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">267506235313</string>
+    <string name="google_api_key" translatable="false">AIzaSyBLNK-8OggcqQEEOSxGs-LQdwyhphUKIdQ</string>
+    <string name="google_app_id" translatable="false">1:267506235313:android:cb653f8099bedcf1a8af90</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBLNK-8OggcqQEEOSxGs-LQdwyhphUKIdQ</string>
+    <string name="google_storage_bucket" translatable="false">nuritopia2d-670a5.appspot.com</string>
+    <string name="project_id" translatable="false">nuritopia2d-670a5</string>
+</resources>

@@ -1,0 +1,1 @@
+ E:\\Tweb\\Flutter\\nuritopia2d\\.dart_tool\\flutter_build\\23cd5fc5403bb5c6ad2fad94401a8d7c\\native_assets.yaml: 

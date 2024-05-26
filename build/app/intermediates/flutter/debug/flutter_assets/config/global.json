@@ -1,0 +1,11 @@
+{
+  "laravel_base_url": "https://dev.care-chair.com/",
+  "laravel_base_url_live": "https://panel.care-chair.com/",
+  "api_path": "api/v7/",
+  "ios_app": "https://apps.apple.com/us/app/carechair-business/id1628475345",
+  "android_app": "https://play.google.com/store/apps/details?id=com.carechair.panel_owner",
+  "received": 1,
+  "accepted": 10,
+  "done": 50,
+  "failed": 60
+}
